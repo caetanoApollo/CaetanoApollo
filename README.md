@@ -1,5 +1,4 @@
-# Caetano Apollo
-🚀 Full-Stack Developer | Python | JavaScript | Node.js | SQL | React Native
+## 🚀 Full-Stack Developer | Python | JavaScript | Node.js | SQL | React Native
 <br>
 📍 Novo Hamburgo, Brazil  
 
