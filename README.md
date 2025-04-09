@@ -1,6 +1,6 @@
 🚀 Full-Stack Developer | Python | JavaScript | Node.js | SQL | React Native
 <br>
-📍 Novo Hamburgo, Brazil  
+📍 Rio Grande do Sul, Brazil  
 
 ### About
 17 y/o tech student - Senac RS | Python automation dev - Grupo Carburgo  
