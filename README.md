@@ -50,7 +50,7 @@
 
 ###
 
-<img align="right" height="140" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2M3bWE0MWw5bmVwYTE4eHBybG9pbGQwM2h0aG0zMjRkeGgybXkzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
+<img align="center" height="140" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2M3bWE0MWw5bmVwYTE4eHBybG9pbGQwM2h0aG0zMjRkeGgybXkzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"/>
 
 ###
 
@@ -61,7 +61,6 @@
 ###
 
 <div align="center", gap="25px">
-  <img src="https://github-readme-stats.vercel.app/api?username=caetanoApollo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caetanoApollo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
