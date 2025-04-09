@@ -1,5 +1,4 @@
 ## 🚀 Full-Stack Developer | Python | JavaScript | Node.js | SQL | React Native
-<br>
 📍 Novo Hamburgo, Brazil  
 
 ### About
