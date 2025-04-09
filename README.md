@@ -49,8 +49,9 @@
 </div>
 
 ###
-
-<img align="center" height="140" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFwNGh6YTdpeDZqa2xhbnQ4NzJvcDFvZXdteHVkbDh1cWdld295eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<div align="center">
+  <img align="center" height="150"   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFwNGh6YTdpeDZqa2xhbnQ4NzJvcDFvZXdteHVkbDh1cWdld295eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>    
+</div>
 
 ###
 
