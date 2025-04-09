@@ -1,15 +1,19 @@
-<h2 align="left">👋 Hello World! I'm Caetano Apollo<br>🌟 Aspiring Programmer | 🎓 Tech Enthusiast | 🖥️ Code Explorer</h2>
+# Caetano Apollo
+🚀 Full-Stack Developer | Python | JavaScript | Node.js | SQL | React Native
+<br>
+📍 Novo Hamburgo, Brazil  
+
+### About
+17 y/o tech student - Senac RS | Python automation dev - Grupo Carburgo  
+• Built automations of accounting systems  
+• Gold medal academic achiever  
+• Science fair finalist UFRGS    
+
+🔧 Tech Stack: HTML/CSS, JavaScript, Node.js, Python, SQL, React Native
+
+📫 Let's connect! <a href="https://www.linkedin.com/in/caetanoapollo/" target="_blank">Linkedin</a>
 
 ###
-
-<p align="left">🔥 About Me:<br>I'm a passionate tech enthusiast currently pursuing my technical education in programming. My journey in the world of coding started with a simple "Hello World" and has since evolved into a full-fledged exploration of the fascinating realm of software development.</p>
-
-###
-
-<p align="left">💻 What I'm Working On:<br>I'm dedicated to honing my programming skills and expanding my knowledge in various languages and technologies. From mastering the fundamentals of Python to diving into web development with HTML, CSS, and JavaScript, I'm on a constant quest for learning and growth.</p>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -20,8 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
@@ -52,7 +54,7 @@
 
 ###
 <div align="center">
-  <img align="center" height="150"   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFwNGh6YTdpeDZqa2xhbnQ4NzJvcDFvZXdteHVkbDh1cWdld295eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>    
+  <img align="center" height="150"   src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3UyaWw5NnpkNmpldXRpMWszc25uOHZlcHplMzA3N2MyaXR2d2dwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif"/>    
 </div>
 
 ###
