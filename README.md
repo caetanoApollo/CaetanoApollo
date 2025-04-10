@@ -64,9 +64,14 @@ Vamos construir algo incrível juntos! Entre em contato e vamos colaborar.
 
 ###
 
-<div align="center", gap="25px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caetanoApollo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caetanoApollo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=caetanoApollo&locale=pt-br&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caetanoApollo&radius=16&theme=dracula&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
+
 
 ###
 
