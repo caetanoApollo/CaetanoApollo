@@ -19,7 +19,9 @@
 ## Conecte-se Comigo
 
 📫 **E-mail:** caetanosilveira1908@gmail.com
+
 🔗 **LinkedIn:** [in/caetanoapollo](https://www.linkedin.com/in/caetanoapollo)  
+
 📸 **Instagram:** [@caetanoapollo](https://www.instagram.com/caetanoapollo)
 
 Vamos construir algo incrível juntos! Entre em contato e vamos colaborar.
