@@ -1,16 +1,28 @@
-🚀 Full-Stack Developer | Python | JavaScript | Node.js | SQL | React Native
-<br>
-📍 Rio Grande do Sul, Brazil  
+# Caetano Apollo | Desenvolvedor Full-Stack 🚀
 
-### About
-17 y/o tech student - Senac RS | Python automation dev - Grupo Carburgo  
-• Built automations of accounting systems  
-• Gold medal academic achiever  
-• Science fair finalist UFRGS    
+⚡ Transformando ideias em soluções digitais eficientes.
 
-🔧 Tech Stack: HTML/CSS, JavaScript, Node.js, Python, SQL, React Native
+## Sobre Mim
 
-📫 Let's connect! <a href="https://www.linkedin.com/in/caetanoapollo/" target="_blank">Linkedin</a>
+- **Experiência Técnica:** Atuando como desenvolvedor full-stack, com foco em automação de processos, desenvolvimento de aplicações web e mobile, e integração de tecnologias para otimização de fluxos de trabalho.
+- **Principais Habilidades:** Proficiência em **JavaScript**, **Python**, **Node.js**, **React Native**, **MySQL**, além de domínio com bibliotecas como **PyAutoGUI**, **Selenium**, e ferramentas como **Figma**.
+- **Interesses:** Inovação tecnológica, automação de processos, interfaces intuitivas e soluções que impactem diretamente a vida de microempreendedores.
+
+## Projetos Destacados
+
+- 🔗 [**Cloud Village**](https://github.com/caetanoApollo/Cloud_village)  
+  *Sistema de gerenciamento de condomínio que permite administrar moradores e veículos de forma eficiente. Tecnologias utilizadas incluem Node.js, Express, MySQL, HTML, CSS e JavaScript.*
+
+- 🔗 [**BizManager**](https://github.com/caetanoApollo/BizManager)  
+  *Aplicativo desenvolvido para auxiliar microempreendedores na gestão de seus negócios, oferecendo funcionalidades como cadastro de clientes, gestão financeira e geração de relatórios. Construído com React Native e integração com Google Agenda.*
+
+## Conecte-se Comigo
+
+📫 **E-mail:** caetanosilveira1908@gmail.com
+🔗 **LinkedIn:** [in/caetanoapollo](https://www.linkedin.com/in/caetanoapollo)  
+📸 **Instagram:** [@caetanoapollo](https://www.instagram.com/caetanoapollo)
+
+Vamos construir algo incrível juntos! Entre em contato e vamos colaborar.
 
 ###
 <div align="center">
@@ -35,20 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/caetanoapollo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/caetanoapollo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/caetanoapollo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
 </div>
 
 ###
